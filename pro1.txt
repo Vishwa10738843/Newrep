@@ -1,6 +1,3 @@
 print("hello");
-<<<<<<< HEAD
 print("hello1");
-=======
 print("hello2");
->>>>>>> c68ea46ea90b546fb01cabd17de29f062a82b60b
